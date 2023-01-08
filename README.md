@@ -4,6 +4,6 @@ setup
  
 pip install -r requirements.txt
 
-cd computerSysInfo
+cd computerSys
 
 python computerSysInfo.py
